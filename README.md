@@ -1,0 +1,1 @@
+From scratch, builds a website applying Box Model, CSS Display, and Flexbox; the basic tools for positioning elements on a web page.
